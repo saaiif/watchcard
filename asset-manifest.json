@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "http//:saaiif.github.io/WatchCardModule/static/css/main.0081b9a6.chunk.css",
+    "main.js": "http//:saaiif.github.io/WatchCardModule/static/js/main.f372c29f.chunk.js",
+    "main.js.map": "http//:saaiif.github.io/WatchCardModule/static/js/main.f372c29f.chunk.js.map",
+    "runtime-main.js": "http//:saaiif.github.io/WatchCardModule/static/js/runtime-main.ed8d4925.js",
+    "runtime-main.js.map": "http//:saaiif.github.io/WatchCardModule/static/js/runtime-main.ed8d4925.js.map",
+    "static/js/2.5ba8213c.chunk.js": "http//:saaiif.github.io/WatchCardModule/static/js/2.5ba8213c.chunk.js",
+    "static/js/2.5ba8213c.chunk.js.map": "http//:saaiif.github.io/WatchCardModule/static/js/2.5ba8213c.chunk.js.map",
+    "index.html": "http//:saaiif.github.io/WatchCardModule/index.html",
+    "precache-manifest.2eb9ead0b088b451aa5f85a6590d295d.js": "http//:saaiif.github.io/WatchCardModule/precache-manifest.2eb9ead0b088b451aa5f85a6590d295d.js",
+    "service-worker.js": "http//:saaiif.github.io/WatchCardModule/service-worker.js",
+    "static/css/main.0081b9a6.chunk.css.map": "http//:saaiif.github.io/WatchCardModule/static/css/main.0081b9a6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8d4925.js",
+    "static/js/2.5ba8213c.chunk.js",
+    "static/css/main.0081b9a6.chunk.css",
+    "static/js/main.f372c29f.chunk.js"
+  ]
+}
